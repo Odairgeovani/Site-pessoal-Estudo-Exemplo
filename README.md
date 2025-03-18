@@ -72,7 +72,7 @@ Este projeto está disponível como código aberto sob os termos da [Licença MI
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Odair Geovani
 
 ---
 
